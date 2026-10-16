@@ -1,0 +1,6 @@
+{
+  "name": "Maha Nepal Trips | Guided Himalayan Treks & Tours",
+  "description": "Direct booking platform for authentic Nepal treks, cultural journeys, and mountain expeditions led by veteran guide Deepak Kushwaha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
